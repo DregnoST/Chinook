@@ -1,4 +1,4 @@
-package com.sanalberto.clientes.clientes;
+package com.sanalberto.clientes;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
